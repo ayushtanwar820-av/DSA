@@ -7,20 +7,40 @@ class Solution {
         while(low <= high){
             int mid = low + (high-low)/2 ;
 
-            if((mid-1)>=0 &&(nums[mid] == nums[mid-1]) && (mid&1)==0){
-                high = mid-2 ;
+            int currentVal = nums[mid] ;
+
+            int prevVal = -1 ;
+            if(mid-1 >= 0){
+                prevVal = nums[mid-1] ;
             }
-            else if((mid+1)<size && (nums[mid] == nums[mid+1]) && ((mid+1)&1)==0){
-                high = mid-1 ;
+            
+            int nextVal = -1 ;
+            if(mid+1 < size){
+                nextVal = nums[mid+1] ;
             }
-            else if((mid-1)>=0 && (nums[mid] == nums[mid-1]) && ((mid)&1)==1){
-                low = mid+1 ;
+
+            if((currentVal != prevVal) && (currentVal != nextVal)){
+                return currentVal ;
             }
-            else if((mid+1)<size && (nums[mid] == nums[mid+1]) && ((mid+1)&1)==1){
-                low = mid+2 ;
+            else if(currentVal == prevVal){
+                int currentLength = mid+1 ;
+
+                if((currentLength&1) == 1){
+                    high = mid-2 ;
+                }
+                else{
+                    low = mid+1 ;
+                }
             }
-            else{
-                return nums[mid] ;
+            else {
+                int currentLength = (mid+1)+1 ;
+
+                if((currentLength&1) == 1){
+                    high = mid-1 ;
+                }
+                else{
+                    low = mid+2 ;
+                }
             }
         }
 
