@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/ayushtanwar820-av/DSA/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushtanwar820-av/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar820-av/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushtanwar820-av/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayushtanwar820-av/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar820-av/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayushtanwar820-av/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar820-av/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
