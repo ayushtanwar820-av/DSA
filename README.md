@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/ayushtanwar820-av/DSA/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushtanwar820-av/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ayushtanwar820-av/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar820-av/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushtanwar820-av/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ayushtanwar820-av/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ayushtanwar820-av/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayushtanwar820-av/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ayushtanwar820-av/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Queue
 |  |
 | ------- |
