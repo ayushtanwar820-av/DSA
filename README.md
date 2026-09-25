@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ayushtanwar820-av/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ayushtanwar820-av/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/ayushtanwar820-av/DSA/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/ayushtanwar820-av/DSA/tree/master/1002-find-common-characters) |
 ## Array
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ayushtanwar820-av/DSA/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ayushtanwar820-av/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ayushtanwar820-av/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ayushtanwar820-av/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/ayushtanwar820-av/DSA/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
