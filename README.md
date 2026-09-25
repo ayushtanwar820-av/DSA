@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushtanwar820-av/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/ayushtanwar820-av/DSA/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/ayushtanwar820-av/DSA/tree/master/1002-find-common-characters) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ayushtanwar820-av/DSA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushtanwar820-av/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ayushtanwar820-av/DSA/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/ayushtanwar820-av/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
