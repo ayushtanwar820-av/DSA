@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/ayushtanwar820-av/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0345-reverse-vowels-of-a-string) |
