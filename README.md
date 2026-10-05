@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayushtanwar820-av/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar820-av/DSA/tree/master/1512-number-of-good-pairs) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushtanwar820-av/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushtanwar820-av/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
