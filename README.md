@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/ayushtanwar820-av/DSA/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0410-split-array-largest-sum) |
+| [1025-divisor-game](https://github.com/ayushtanwar820-av/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushtanwar820-av/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayushtanwar820-av/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1025-divisor-game](https://github.com/ayushtanwar820-av/DSA/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushtanwar820-av/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ayushtanwar820-av/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -181,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/ayushtanwar820-av/DSA/tree/master/2413-smallest-even-multiple) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ayushtanwar820-av/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ayushtanwar820-av/DSA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ayushtanwar820-av/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
