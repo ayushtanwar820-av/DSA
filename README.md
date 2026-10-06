@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushtanwar820-av/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ayushtanwar820-av/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushtanwar820-av/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/ayushtanwar820-av/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushtanwar820-av/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushtanwar820-av/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/ayushtanwar820-av/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ayushtanwar820-av/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/ayushtanwar820-av/DSA/tree/master/1025-divisor-game) |
