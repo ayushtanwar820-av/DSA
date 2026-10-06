@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/ayushtanwar820-av/DSA/tree/master/1002-find-common-characters) |
 | [1544-make-the-string-great](https://github.com/ayushtanwar820-av/DSA/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ayushtanwar820-av/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar820-av/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayushtanwar820-av/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar820-av/DSA/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar820-av/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushtanwar820-av/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/ayushtanwar820-av/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushtanwar820-av/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
