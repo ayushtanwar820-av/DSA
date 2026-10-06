@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar820-av/DSA/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushtanwar820-av/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/ayushtanwar820-av/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ayushtanwar820-av/DSA/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
