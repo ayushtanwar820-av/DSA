@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/ayushtanwar820-av/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar820-av/DSA/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/ayushtanwar820-av/DSA/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ayushtanwar820-av/DSA/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/ayushtanwar820-av/DSA/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ayushtanwar820-av/DSA/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
@@ -240,4 +242,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ayushtanwar820-av/DSA/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ayushtanwar820-av/DSA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ayushtanwar820-av/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
