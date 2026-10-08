@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ayushtanwar820-av/DSA/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1929-concatenation-of-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ayushtanwar820-av/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ayushtanwar820-av/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ayushtanwar820-av/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/ayushtanwar820-av/DSA/tree/master/2413-smallest-even-multiple) |
 ## Brainteaser
 |  |
