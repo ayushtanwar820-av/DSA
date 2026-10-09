@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushtanwar820-av/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ayushtanwar820-av/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ayushtanwar820-av/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/ayushtanwar820-av/DSA/tree/master/2614-prime-in-diagonal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ayushtanwar820-av/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ayushtanwar820-av/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Greedy
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/ayushtanwar820-av/DSA/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/ayushtanwar820-av/DSA/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ayushtanwar820-av/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ayushtanwar820-av/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Brainteaser
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/ayushtanwar820-av/DSA/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/ayushtanwar820-av/DSA/tree/master/2427-number-of-common-factors) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/ayushtanwar820-av/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prime Factorization
 |  |
 | ------- |
