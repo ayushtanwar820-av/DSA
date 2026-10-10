@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushtanwar820-av/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ayushtanwar820-av/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushtanwar820-av/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ayushtanwar820-av/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Greedy
 |  |
