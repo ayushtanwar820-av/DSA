@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ayushtanwar820-av/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0567-permutation-in-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/ayushtanwar820-av/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ayushtanwar820-av/DSA/tree/master/0389-find-the-difference) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ayushtanwar820-av/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ayushtanwar820-av/DSA/tree/master/0367-valid-perfect-square) |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayushtanwar820-av/DSA/tree/master/0078-subsets) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
