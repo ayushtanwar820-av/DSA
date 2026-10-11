@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ayushtanwar820-av/DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayushtanwar820-av/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3340-check-balanced-string](https://github.com/ayushtanwar820-av/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
