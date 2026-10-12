@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ayushtanwar820-av/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ayushtanwar820-av/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ayushtanwar820-av/DSA/tree/master/0118-pascals-triangle) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ayushtanwar820-av/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ayushtanwar820-av/DSA/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0410-split-array-largest-sum) |
 | [1025-divisor-game](https://github.com/ayushtanwar820-av/DSA/tree/master/1025-divisor-game) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ayushtanwar820-av/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0410-split-array-largest-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
