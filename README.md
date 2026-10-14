@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ayushtanwar820-av/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/ayushtanwar820-av/DSA/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/ayushtanwar820-av/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ayushtanwar820-av/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ayushtanwar820-av/DSA/tree/master/0693-binary-number-with-alternating-bits) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ayushtanwar820-av/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushtanwar820-av/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ayushtanwar820-av/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ayushtanwar820-av/DSA/tree/master/0367-valid-perfect-square) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ayushtanwar820-av/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushtanwar820-av/DSA/tree/master/0326-power-of-three) |
 ## Primality Test
 |  |
