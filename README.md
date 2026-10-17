@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushtanwar820-av/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ayushtanwar820-av/DSA/tree/master/0051-n-queens) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushtanwar820-av/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ayushtanwar820-av/DSA/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/ayushtanwar820-av/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/ayushtanwar820-av/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ayushtanwar820-av/DSA/tree/master/0051-n-queens) |
@@ -348,5 +352,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushtanwar820-av/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ayushtanwar820-av/DSA/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushtanwar820-av/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
