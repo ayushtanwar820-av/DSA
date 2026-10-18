@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushtanwar820-av/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/ayushtanwar820-av/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ayushtanwar820-av/DSA/tree/master/0326-power-of-three) |
 ## Primality Test
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayushtanwar820-av/DSA/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushtanwar820-av/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
