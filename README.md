@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushtanwar820-av/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushtanwar820-av/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushtanwar820-av/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushtanwar820-av/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushtanwar820-av/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushtanwar820-av/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushtanwar820-av/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ayushtanwar820-av/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ayushtanwar820-av/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ayushtanwar820-av/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushtanwar820-av/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
