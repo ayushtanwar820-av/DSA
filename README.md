@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ayushtanwar820-av/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ayushtanwar820-av/DSA/tree/master/0567-permutation-in-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushtanwar820-av/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ayushtanwar820-av/DSA/tree/master/1544-make-the-string-great) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ayushtanwar820-av/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayushtanwar820-av/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ayushtanwar820-av/DSA/tree/master/0326-power-of-three) |
 ## Primality Test
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ayushtanwar820-av/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayushtanwar820-av/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
