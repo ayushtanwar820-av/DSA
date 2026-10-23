@@ -14,42 +14,30 @@ class Solution {
         if(list1 == null) return list2;
         if(list2 == null) return list1;
 
-        ListNode temp ;
-        if(list1.val > list2.val){
-            temp = list2;
-            list2 = list2.next;
-        }
-        else{
-            temp = list1;
-            list1 = list1.next;
-        }
-        
-        ListNode result = temp;
+        ListNode dummy = new ListNode(-1) ;
+        ListNode resultHead = dummy;
+        ListNode resultTail = dummy;
 
         while((list1 != null) && (list2 != null)){
             if(list1.val > list2.val){
-                temp.next = list2;
+                resultTail.next = list2;
                 list2 = list2.next;
             }
             else{
-                temp.next = list1; 
+                resultTail.next = list1; 
                 list1 = list1.next;
             }
-            temp = temp.next;
+            resultTail = resultTail.next;
         }
 
-        while(list1 != null){
-            temp.next = list1;
-            list1 = list1.next;
-            temp = temp.next;
+        if(list1 != null){
+            resultTail.next = list1;
         }
-        
-        while(list2 != null){
-            temp.next = list2;
-            list2 = list2.next;
-            temp = temp.next;
+        else{
+            resultTail.next = list2;
         }
+        resultHead = resultHead.next;
 
-        return result;
+        return resultHead;
     }
 }
