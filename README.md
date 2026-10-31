@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/ayushtanwar820-av/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/ayushtanwar820-av/DSA/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/ayushtanwar820-av/DSA/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/ayushtanwar820-av/DSA/tree/master/0986-interval-list-intersections) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushtanwar820-av/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/ayushtanwar820-av/DSA/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/ayushtanwar820-av/DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0986-interval-list-intersections](https://github.com/ayushtanwar820-av/DSA/tree/master/0986-interval-list-intersections) |
 | [1002-find-common-characters](https://github.com/ayushtanwar820-av/DSA/tree/master/1002-find-common-characters) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/ayushtanwar820-av/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/ayushtanwar820-av/DSA/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ayushtanwar820-av/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/ayushtanwar820-av/DSA/tree/master/0881-boats-to-save-people) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
@@ -416,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/ayushtanwar820-av/DSA/tree/master/0986-interval-list-intersections) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ayushtanwar820-av/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
