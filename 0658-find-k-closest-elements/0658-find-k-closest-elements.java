@@ -2,7 +2,8 @@ class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
         int size = arr.length;
         int low = 0;
-        int high = size-1;
+        int high = size;
+
         List<Integer> result = new ArrayList<>();
 
         while(low < high){
@@ -16,44 +17,36 @@ class Solution {
             }
         }
 
-        if(low == 0){
-            for(int i=0 ; i<k ; i++){
-                result.add(arr[i]);
+        int left = low-1;
+        int right = low;
+
+        for(int i=1 ; i<=k ; i++){
+
+            if(left < 0){
+                left = -1;
+                right = k;
+                break;
+            }
+            else if(right >= size){
+                right = size;
+                left = size-k-1;
+                break;
+            }
+
+            int leftDiff = Math.abs(x - arr[left]);
+            int rightDiff = Math.abs(x - arr[right]);
+
+            if(leftDiff > rightDiff){
+                right++;
+            }
+            else{
+                left--;
             }
         }
-        else if(low == size){
-            for(int i=0 ; i<k ; i++){
-                low--;
-                result.add(arr[low]);
-            }
+        
+        for(int i=left+1 ; i<right ; i++){
+            result.add(arr[i]);
         }
-        else{
-            int left = low-1;
-            int right = low;
-
-            for(int i=0 ; i<k ; i++){
-
-                int leftDiff = Integer.MAX_VALUE;
-                int rightDiff = Integer.MAX_VALUE;
-
-                if(left >= 0){
-                    leftDiff = Math.abs(x - arr[left]);
-                }
-                if(right < size){
-                    rightDiff = Math.abs(x - arr[right]);
-                }
-
-                if(leftDiff > rightDiff){
-                    result.add(arr[right]);
-                    right++;
-                }
-                else{
-                    result.add(arr[left]);
-                    left--;
-                }
-            }
-        }
-        Collections.sort(result);
         return result;
     }
 }
