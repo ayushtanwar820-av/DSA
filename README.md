@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/ayushtanwar820-av/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ayushtanwar820-av/DSA/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/ayushtanwar820-av/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushtanwar820-av/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayushtanwar820-av/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayushtanwar820-av/DSA/tree/master/0410-split-array-largest-sum) |
+| [1732-find-the-highest-altitude](https://github.com/ayushtanwar820-av/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Recursion
 |  |
 | ------- |
