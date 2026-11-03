@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushtanwar820-av/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/ayushtanwar820-av/DSA/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushtanwar820-av/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/ayushtanwar820-av/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ayushtanwar820-av/DSA/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/ayushtanwar820-av/DSA/tree/master/2614-prime-in-diagonal) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushtanwar820-av/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushtanwar820-av/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/ayushtanwar820-av/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushtanwar820-av/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ayushtanwar820-av/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushtanwar820-av/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Sweep Line
 |  |
 | ------- |
