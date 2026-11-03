@@ -17,12 +17,12 @@ class Solution {
     public Node copyRandomList(Node head) {
         if(head == null) return head;
         Node curr = head;
-        HashMap<Node, Node> link = new HashMap<>();
+        HashMap<Node, Node> map = new HashMap<>();
 
         Node copyHead = new Node(head.val);
         copyHead.next = curr.next;
         
-        link.put(curr, copyHead);
+        map.put(curr, copyHead);
 
         Node copyTail = copyHead;
         curr = curr.next;
@@ -34,7 +34,7 @@ class Solution {
             copyTail.next = newNode;
             copyTail = newNode;
 
-            link.put(curr, copyTail);
+            map.put(curr, copyTail);
 
             curr = curr.next;
         }
@@ -43,7 +43,7 @@ class Solution {
         copyTail = copyHead;
 
         while(curr != null){
-            Node copyRandom = link.get(curr.random);
+            Node copyRandom = map.get(curr.random);
 
             copyTail.random = copyRandom;
             copyTail = copyTail.next;
