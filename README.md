@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ayushtanwar820-av/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ayushtanwar820-av/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushtanwar820-av/DSA/tree/master/0090-subsets-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushtanwar820-av/DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/ayushtanwar820-av/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ayushtanwar820-av/DSA/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/ayushtanwar820-av/DSA/tree/master/0202-happy-number) |
